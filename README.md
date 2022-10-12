@@ -1,6 +1,6 @@
 # Hi there, I'm Alihan 👋
 
-## I'm a Student and wannabe Developer!
+## I'm a lifelong learner and self-taught developer!
 
 - 🌱 I’m currently learning React!
 - 🥅 2022 Goals: Build more projects!
