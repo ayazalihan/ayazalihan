@@ -2,8 +2,8 @@
 
 ## I'm a lifelong learner and self-taught developer!
 
-- 🌱 I’m currently learning React!
-- 🥅 2022 Goals: Build more projects!
+- 🌱 I’m currently learning Vue!
+- 🥅 2023 Goals: Build more projects!
 
 ### Connect with me:
 
